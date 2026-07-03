@@ -1,0 +1,4 @@
+aiogram[fast]
+sqlalchemy
+asyncpg
+python-dotenv
